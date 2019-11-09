@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-07"
   date_end = ""
-  description = "Predict demand for an online advertisement based on natural language metadata and context."
+  description = "Predict the demand for an online advertisement based on natural language metadata and context."
   
 [[item]]
   organization = "Kaggle"
