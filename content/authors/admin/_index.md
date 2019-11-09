@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kung-Hsiang Huang (Steeve)
+name: Steeve Huang
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Co-Founder & CTO, Rosetta.ai
 
 # Organizations/Affiliations
 organizations:
-- name: MSc , University of Southern California
+- name: MSc in CS, University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Steeve (Kung-Hsiang) Huang the Chief Technology officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.
