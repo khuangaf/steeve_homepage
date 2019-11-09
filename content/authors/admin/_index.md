@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am the Chief Technology officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
+bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
 - Recommender System
@@ -33,6 +33,9 @@ education:
   - course: BEng in Computer Science
     institution: Hong Kong University of Science and Technlogy
     year: 2014 - 2018
+  - course: Exchange Program
+    institution: Georgia Institute of Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -74,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is the Chief Technology officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.
+Steeve Huang (Kung-Hsiang) is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.

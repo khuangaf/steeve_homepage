@@ -41,6 +41,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Kaggle"
   organization_url = "https://www.kaggle.com/"
+  title = "Competitions Master"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-07"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Kaggle"
+  organization_url = "https://www.kaggle.com/"
   title = "Silver Medal, Avito Demand Prediction Challenge"
   url = "https://www.kaggle.com/c/avito-demand-prediction/overview/"
   certificate_url = ""
@@ -96,5 +106,79 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-05-07"
   date_end = ""
-  description = "Detect fraudulent click traffic for mobile app ads?"
+  description = "Detect fraudulent click traffic for mobile app ads."
+
+
+[[item]]
+  organization = "Hong Kong University of Science and Technology"
+  organization_url = "https://www.ust.hk/home"
+  title = "Dean's List"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-12-31"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Hong Kong University of Science and Technology"
+  organization_url = "https://www.ust.hk/home"
+  title = "University Full Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-31"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Hong Kong University of Science and Technology"
+  organization_url = ""
+  title = "Reaching Out Award Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "ATOS"
+  organization_url = "https://atos.net/en"
+  title = "Final List, IT Challenge"
+  url = "https://www.atositchallenge.net/2018-2/"
+  certificate_url = ""
+  date_start = "2018-04-30"
+  date_end = ""
+  description = "Create an innovative Chatbot solution."  
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = ""
+  title = "First Runner-up, Imagine Cup Hong Kong Final"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-31"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IBM"
+  organization_url = ""
+  title = "Second Place, Public Welfare Datathon (公益数据骇客马拉松)"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-09-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "DC Holdings"
+  organization_url = ""
+  title = "First Place, Smart City in Hong Kong"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-12-30"
+  date_end = ""
+  description = ""
+
+
+  
 +++
