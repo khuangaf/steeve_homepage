@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACM RecSys, Trivago"
+  organization_url = "http://www.recsyschallenge.com/2019/"
+  title = "4th Place, 2019 ACM RecSys Challenge"
+  url = "http://www.recsyschallenge.com/2019/"
+  certificate_url = ""
+  date_start = "2019-07-20"
+  date_end = ""
+  description = "Build a session-based, context-aware recommender systems for hotel metasearch."
+
+[[item]]
   organization = "Kaggle"
   organization_url = "https://www.kaggle.com/"
   title = "Gold Medal, Toxic Comment Classification Challenge"
