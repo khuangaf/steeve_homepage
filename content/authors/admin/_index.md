@@ -47,13 +47,16 @@ social:
   link: https://twitter.com/steeve__huang
 - icon: linkedin
   icon_pack: fab
-  url: https://www.linkedin.com/in/steeve-huang/
+  link: https://www.linkedin.com/in/steeve-huang/
 - icon: github
   icon_pack: fab
   link: https://github.com/khuangaf
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/huangkh19951228/
 - icon: medium
   icon_pack: fab
-  url: https://medium.com/@huangkh19951228  
+  link: https://medium.com/@huangkh19951228  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
