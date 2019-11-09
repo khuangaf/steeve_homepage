@@ -19,18 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Co-Founder & CTO"
-  company = "Taipei, Rosetta.ai"
+  company = "Rosetta.ai"
   company_url = "http://rosetta.ai"
-  location = "Taiwan"
+  location = "Taipei, Taiwan"
   date_start = "2018-08-30"
   date_end = ""
-  description = """
-  <!-- Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying -->
-  """
+  description = """"""
 
 [[experience]]
   title = "Machine Learning Engineer"
