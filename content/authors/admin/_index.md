@@ -60,9 +60,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve (Kung-Hsiang) Huang the Chief Technology officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.
+Steeve Huang (Kung-Hsiang) is the Chief Technology officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.
