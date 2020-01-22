@@ -21,8 +21,8 @@ organizations:
 bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
-- Recommender System
 - Natural Language Processing
+- Recommender System
 - Graph Neural Network
 
 education:
@@ -30,12 +30,15 @@ education:
   - course: MSc in Computer Science
     institution: University of Southern California
     year: 2020 - 2021
+    img: http://viterbivoices.usc.edu/wp-content/uploads/2014/09/Small-Use-Shield_GoldOnCard.jpg
   - course: BEng in Computer Science
     institution: Hong Kong University of Science and Technlogy
     year: 2014 - 2018
+    img: https://yt3.ggpht.com/a/AGF-l78fWv4LbhmZB2dInbDzxuY9ryO08-UkwxzTqQ=s900-c-k-c0xffffffff-no-rj-mo
   - course: Exchange Program
     institution: Georgia Institute of Technology
     year: 2016
+    img: https://cdn.freebiesupply.com/logos/large/2x/georgia-tech-yellow-jackets-2-logo-png-transparent.png
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
