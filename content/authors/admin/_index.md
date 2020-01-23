@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, he will be attending the University of Southern California as a Master of Science in Computer Science student.
+Steeve Huang (Kung-Hsiang) is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In addition, he is also studying a Master of Science in Computer Science Program at the University of Southern California, while working as a graduate student researcher at Information Sciences Institute under the supervision of Prof. Nanyun Peng.
