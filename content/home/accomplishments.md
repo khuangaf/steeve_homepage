@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-07-20"
   date_end = ""
-  description = "Build a session-based, context-aware recommender systems for hotel metasearch."
+  description = "Build session-based, context-aware recommender systems for hotel metasearch."
 
 [[item]]
   organization = "Kaggle"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-03-20"
   date_end = ""
-  description = "Build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate."
+  description = "Build multi-headed models that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate."
 
 [[item]]
   organization = "Kaggle"
@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-01-23"
   date_end = ""
-  description = "Build a classifier to distinuish between ship and iceberg from a remotely shot image."
+  description = "Build a classifier to distinuish between ship and iceberg from remotely shot images."
 
 [[item]]
   organization = "Kaggle"
