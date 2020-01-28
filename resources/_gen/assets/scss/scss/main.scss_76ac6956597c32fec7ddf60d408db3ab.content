@@ -7532,7 +7532,7 @@ div.alert a {
   min-height: 70px !important; }
 
 .navbar-light {
-  background: #961d1d !important;
+  background: #990000 !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11); }
 
 .navbar-light .navbar-toggler {
@@ -7587,7 +7587,7 @@ nav#navbar-main li.nav-item {
   background-color: #fff !important; }
 
 .dropdown-menu {
-  background-color: #961d1d !important; }
+  background-color: #990000 !important; }
 
 .dropdown-menu > li > a {
   display: block;
@@ -7602,12 +7602,12 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > li > a:hover {
   color: #fae141;
   text-decoration: none;
-  background-color: #961d1d; }
+  background-color: #990000; }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: #961d1d;
+  color: #990000;
   text-decoration: none;
   background-color: #fae141;
   outline: 0; }
@@ -7617,7 +7617,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav > .open > a:hover,
 .navbar-light .navbar-nav > .open > a:visited {
   color: #fff !important;
-  background-color: #961d1d !important; }
+  background-color: #990000 !important; }
 
 .navbar-light .navbar-brand {
   font-weight: bold;
@@ -8288,7 +8288,7 @@ ul.share li:hover i {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background-color: #f7f7f7; }
+  background-color: gainsboro; }
 
 .dark .home-section {
   background-color: #272935; }

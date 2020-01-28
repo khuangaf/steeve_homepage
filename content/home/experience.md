@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
+  title = "Graduate Student Researcher"
+  company = "Information Sciences Institute"
+  company_url = "https://www.isi.edu/"
+  location = "California, United States"
+  date_start = "2020-01-07"
+  date_end = ""
+  description = """"""  
+
+[[experience]]
   title = "Machine Learning Engineer"
   company = "Industrial Technology Research Institute"
   company_url = "https://www.itri.org.tw/"
