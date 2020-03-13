@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Graduate Student Researcher"
+  title = "Research Assistant"
   company = "Information Sciences Institute"
   company_url = "https://www.isi.edu/"
   location = "California, United States"

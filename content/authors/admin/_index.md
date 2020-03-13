@@ -10,19 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-Founder & CTO, Rosetta.ai
+role1: Co-Founder & CTO, Rosetta.ai
+role2: Research Assistant & MSc in CS,
+
 
 # Organizations/Affiliations
 organizations:
-- name: MSc in CS, University of Southern California
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
-- Natural Language Processing
-- Recommender System
+- Event Extraction (Genia)
+- Temproal Reasoning (I2B2)
 - Graph Neural Network
 
 education:
@@ -80,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In addition, he is also studying a Master of Science in Computer Science Program at the University of Southern California, while working as a graduate student researcher at Information Sciences Institute under the supervision of Prof. Nanyun Peng.
+Steeve Huang (Kung-Hsiang) is a graduate student and a research assistant at the Information Sciences Institue, University of Southern California under the supervision of Dr. Nanyun Peng. His research interest is event extraction and temporal reasoning in the biomedical domain. In addition, he is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
