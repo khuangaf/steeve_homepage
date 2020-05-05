@@ -25,7 +25,9 @@ bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep
 interests:
 - Event Extraction (Genia)
 - Temproal Reasoning (I2B2)
+- Knowledge Incorporation
 - Graph Neural Network
+
 
 education:
   courses:
@@ -82,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is a graduate student and a research assistant at the Information Sciences Institue, University of Southern California under the supervision of Dr. Nanyun Peng. His research interest is event extraction and temporal reasoning in the biomedical domain. In addition, he is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
+Steeve Huang (Kung-Hsiang) is a graduate student and a research assistant at the Information Sciences Institue, University of Southern California under the supervision of Dr. Nanyun Peng. His research interest is knowledge-enhanced event extraction and temporal reasoning in the biomedical domain. In addition, he is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.

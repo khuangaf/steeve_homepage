@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Southern California"
+  organization_url = "https://www.usc.edu/"
+  title = "Dean's Scholarship"
+  url = "http://www.recsyschallenge.com/2019/"
+  certificate_url = ""
+  date_start = "2020-01-05"
+  date_end = ""
+  description = "Merit-based scholarship issued on admission."
+
+[[item]]
   organization = "ACM RecSys, Trivago"
   organization_url = "http://www.recsyschallenge.com/2019/"
   title = "4th Place, 2019 ACM RecSys Challenge"
