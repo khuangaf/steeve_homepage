@@ -23,17 +23,18 @@ organizations:
 bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
-- Event Extraction (Genia)
-- Temproal Reasoning (I2B2)
-- Knowledge Incorporation
-- Graph Neural Network
+- Information Extraction
+- Knowledge Reasoning
+- Structured Prediction
+- Graph Neural Networks
+
 
 
 education:
   courses:
   - course: MSc in Computer Science
     institution: University of Southern California
-    year: 2020 - 2021
+    year: 2020 -
     img: http://viterbivoices.usc.edu/wp-content/uploads/2014/09/Small-Use-Shield_GoldOnCard.jpg
   - course: BEng in Computer Science
     institution: Hong Kong University of Science and Technlogy
