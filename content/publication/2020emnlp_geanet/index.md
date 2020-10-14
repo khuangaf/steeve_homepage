@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs"
+title: "Biomedical Event Extraction with Hierarchical Knowledge Graphs"
 authors: ["**Kung-Hsiang Huang**", "Mu Yang", "Nanyun Peng"]
 date: 
 doi: ""
