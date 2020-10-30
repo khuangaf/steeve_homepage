@@ -26,7 +26,7 @@ interests:
 - Information Extraction
 - Knowledge Reasoning
 - Structured Prediction
-- Graph Neural Networks
+- Cross-lingual Transfer
 
 
 
@@ -85,4 +85,4 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is a graduate student and a research assistant at the Information Sciences Institue, University of Southern California under the supervision of Dr. Nanyun Peng. His research interest is knowledge-enhanced event extraction and temporal reasoning in the biomedical domain. In addition, he is the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
+Steeve Huang (Kung-Hsiang) is a graduate student at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is the Chief Technology Officer of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
