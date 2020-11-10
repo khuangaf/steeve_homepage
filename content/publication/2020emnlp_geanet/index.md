@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2009.09335
+url_pdf: https://www.aclweb.org/anthology/2020.findings-emnlp.114.pdf
 url_code: https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction    
 url_dataset:
 url_poster:
