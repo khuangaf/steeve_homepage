@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role1: Co-Founder & CTO, Rosetta.ai
-role2: Research Assistant & MSc in CS,
+role2: MSc in CS,
 
 
 # Organizations/Affiliations
@@ -32,9 +32,13 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Illinois, Urbana-Champaign
+    year: 2021 -
+    img: https://cdn.vox-cdn.com/thumbor/FSUavm-EmXt6dg46QSNu9o6rhFo=/0x0:800x400/1400x1400/filters:focal(336x136:464x264):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56187477/DHNkdRfXoAEp2VD.0.jpg
   - course: MSc in Computer Science
     institution: University of Southern California
-    year: 2020 -
+    year: 2020 - 2021
     img: http://viterbivoices.usc.edu/wp-content/uploads/2014/09/Small-Use-Shield_GoldOnCard.jpg
   - course: BEng in Computer Science
     institution: Hong Kong University of Science and Technlogy
@@ -85,4 +89,5 @@ user_groups:
 - Visitors
 ---
 
-Steeve Huang (Kung-Hsiang) is a graduate student at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is the Chief Technology Officer of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
+Kung-Hsiang (Steeve) Huang is an incoming PhD student at 
+University of Illinois, Urbana-Champaign. Currently, he is working towards a master’s degree at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is the Chief Technology Officer of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
