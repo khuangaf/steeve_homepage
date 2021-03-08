@@ -25,7 +25,6 @@ bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep
 interests:
 - Information Extraction
 - Knowledge Reasoning
-- Structured Prediction
 - Cross-lingual Transfer
 
 
