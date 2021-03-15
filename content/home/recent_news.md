@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< readfromfile "content/newslist.dat" 5 >}} 
+- __[Mar 2021]__ I will join the [BLENDER lab](http://blender.cs.illinois.edu/) led by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) for PhD in Fall 2021!
