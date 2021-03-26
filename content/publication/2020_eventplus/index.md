@@ -16,8 +16,8 @@ publishDate: 2021-01-19T14:52:41+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: "In submission"
+publication: "*NAACL 2021 System Demo*"
+publication_short: "*NAACL 2021 System Demo*"
 
 abstract: ""
 
