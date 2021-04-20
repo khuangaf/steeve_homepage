@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Arxiv"
-publication_short: "In submission"
+publication_short: "The 3rd Workshop on Narrative Understanding, NAACL 2021"
 
 abstract: ""
 
