@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role1: Co-Founder & CTO, Rosetta.ai
-role2: MSc in CS,
+role1: PhD in CS, UIUC
+# role2: PhD in CS,
 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California
+- name: Co-founder, Rosetta.ai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,9 +56,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:kunghsia@usc.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/huangkh19951228/  
+# - icon: kaggle
+#   icon_pack: fab
+#   link: https://www.kaggle.com/huangkh19951228/  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/steeve-huang/
@@ -88,5 +88,5 @@ user_groups:
 - Visitors
 ---
 
-Kung-Hsiang (Steeve) Huang is an incoming PhD student at the
-University of Illinois, Urbana-Champaign. He will join the [BLENDER Lab](http://blender.cs.illinois.edu/) led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html) in Fall 2021. Currently, he is working towards a master’s degree at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is the Chief Technology Officer of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
+Kung-Hsiang (Steeve) Huang is a first-year PhD student at the
+University of Illinois, Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/) led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html) in Fall 2021. Previously, he finished his master’s degree at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
