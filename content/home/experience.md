@@ -17,13 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Co-Founder"
+  title = "Research Assistant"
+  company = "University of Illinois at Urbana-Champaign"
+  company_url = "https://illinois.edu/"
+  location = "Illinois, United States"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Chief Technology Officer"
   company = "Rosetta.ai"
   company_url = "http://rosetta.ai"
   location = "Taipei, Taiwan"
   date_start = "2018-08-30"
-  date_end = ""
+  date_end = "2021-08-01"
   description = """"""
 
 [[experience]]
@@ -32,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "https://www.isi.edu/"
   location = "California, United States"
   date_start = "2020-01-07"
-  date_end = ""
+  date_end = "2021-07-01"
   description = """"""  
 
 [[experience]]

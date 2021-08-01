@@ -16,7 +16,7 @@ role1: PhD in CS, UIUC
 
 # Organizations/Affiliations
 organizations:
-- name: Co-founder, Rosetta.ai
+- name: Co-Founder, Rosetta.ai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Illinois, Urbana-Champaign
+    institution: University of Illinois at Urbana-Champaign
     year: 2021 -
     img: https://cdn.vox-cdn.com/thumbor/FSUavm-EmXt6dg46QSNu9o6rhFo=/0x0:800x400/1400x1400/filters:focal(336x136:464x264):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56187477/DHNkdRfXoAEp2VD.0.jpg
   - course: MSc in Computer Science
