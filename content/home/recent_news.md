@@ -49,6 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-- __[August 2021]__ Moving from LA to Champaign ✈️.
+- __[Aug 2021]__ One paper accepted at EMNLP 2021!
+- __[Aug 2021]__ Moving from LA to Champaign ✈️.
 - __[Mar 2021]__ I will join the [BLENDER lab](http://blender.cs.illinois.edu/) led by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) for PhD in Fall 2021!
