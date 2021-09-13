@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/2109.04901.pdf
 url_code: https://github.com/PlusLabNLP/TempGen
 url_dataset:
 url_poster:
