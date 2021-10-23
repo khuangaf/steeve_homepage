@@ -43,12 +43,13 @@ subtitle = ""
   # padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.
  css_class = ""
 +++
+- __[Oct 2021]__ Serve as a reviewer for ACL Rolling Review.
 - __[Aug 2021]__ One [paper](https://arxiv.org/abs/2109.04901) accepted to EMNLP 2021!
 - __[Aug 2021]__ Moving from LA to Champaign ✈️.
 - __[Mar 2021]__ I will join the [BLENDER lab](http://blender.cs.illinois.edu/) led by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) for PhD in Fall 2021!
