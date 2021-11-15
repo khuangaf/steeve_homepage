@@ -55,7 +55,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kunghsia@usc.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:khhuang3@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: kaggle
 #   icon_pack: fab
 #   link: https://www.kaggle.com/huangkh19951228/  
