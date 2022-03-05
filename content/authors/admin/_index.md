@@ -23,9 +23,11 @@ organizations:
 bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
-- Disinformation Correction
-- Information Extraction
+- Fact Checking
+- Fake News Detection
 - Knowledge Reasoning
+- Information Extraction
+
 
 
 
@@ -89,4 +91,4 @@ user_groups:
 ---
 
 Kung-Hsiang (Steeve) Huang is a first-year PhD student at the
-University of Illinois, Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html), where his works mainly focus on disinformation detection and correction. Previously, he obtained his master’s degree at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.
+University of Illinois, Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html), where his works mainly focus on fact checking and fake news detection. Prior to joining UIUC, he obtained his master’s degree at the University of Southern California. Under the supervision of Professor [Nanyun Peng](https://vnpeng.net/), he obtained rigorous training in conducting NLP research. His research mainly focuses on information extraction. Particularly, he has worked on knowledge-enhanced event extraction, document-level event extraction, and zero-shot cross-lingual transfer for event extraction. In addition, he is a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers.

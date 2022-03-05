@@ -59,7 +59,7 @@ subtitle = ""
   # text_color_light = true  
   
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.
