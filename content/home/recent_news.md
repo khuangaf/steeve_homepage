@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- __[Apr 2022]__ Serve as a reviewer for JAIR.
 - __[Oct 2021]__ Serve as a reviewer for ACL Rolling Review.
 - __[Aug 2021]__ One [paper](https://arxiv.org/abs/2109.04901) accepted to EMNLP 2021!
 - __[Aug 2021]__ Move from LA to Champaign ✈️.
