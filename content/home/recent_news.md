@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- __[Nov 2022]__ Will give a [tutorial](https://www.aacl2022.org/tutorials#h.b34topiurv0z) at AACL 2022!
-- __[Aug 2022]__ Will give a [tutorial](https://khuangaf.github.io/kdd-tutorial-2022/) at KDD 2022!
-- __[Apr 2022]__ Serve as a reviewer for JAIR.
-- __[Oct 2021]__ Serve as a reviewer for ACL Rolling Review.
+- __[Nov 2022]__ Will give a [tutorial](https://www.aacl2022.org/Program/tutorials#h.b34topiurv0z) at AACL 2022!
+- __[Aug 2022]__ Gave a [tutorial](https://khuangaf.github.io/kdd-tutorial-2022/) at KDD 2022!
+- __[Apr 2022]__ Served as a reviewer for JAIR.
+- __[Oct 2021]__ Served as a reviewer for ACL Rolling Review.
 - __[Aug 2021]__ One [paper](https://arxiv.org/abs/2109.04901) accepted to EMNLP 2021!
 - __[Aug 2021]__ Moved from LA to Champaign ✈️.

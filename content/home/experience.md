@@ -22,10 +22,20 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "University of Illinois at Urbana-Champaign"
   company_url = "https://illinois.edu/"
-  location = "Illinois, United States"
+  location = "IL, United States"
   date_start = "2021-08-01"
   date_end = ""
   description = """"""
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon"
+  company_url = "https://www.amazon.science/"
+  location = "NY, United States"
+  date_start = "2022-05-15"
+  date_end = "2022-08-15"
+  description = """"""  
+
 
 [[experience]]
   title = "Chief Technology Officer"
@@ -40,27 +50,10 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Information Sciences Institute"
   company_url = "https://www.isi.edu/"
-  location = "California, United States"
+  location = "CA, United States"
   date_start = "2020-01-07"
   date_end = "2021-07-01"
   description = """"""  
 
-[[experience]]
-  title = "Machine Learning Engineer"
-  company = "Industrial Technology Research Institute"
-  company_url = "https://www.itri.org.tw/"
-  location = "Hsinchu, Taiwan"
-  date_start = "2018-05-30"
-  date_end = "2018-08-30"
-  description = """"""
-
-[[experience]]
-  title = "Junior Data Scientist"
-  company = "Emos.ai"
-  company_url = "https://www.emos.ai/"
-  location = "Hong Kong"
-  date_start = "2018-02-01"
-  date_end = "2016-05-01"
-  description = """"""  
 
 +++
