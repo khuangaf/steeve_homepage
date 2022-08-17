@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Battlefront of Combating Misinformation and Coping with Media Bias"
-authors: [ "Yi R. Fung", "**Kung-Hsiang Huang**", "Preslav Nakov", "Heng Ji"]
-date: 2022-08-15T18:16:04-04:00
+title: "Improving Cross-lingual Fact Checking with Cross-lingual Retrieval"
+authors: ["**Kung-Hsiang Huang**", "Chengxiang Zhai", "Heng Ji"]
+date: 2022-08-16T22:55:14-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-15T18:16:04-04:00
+publishDate: 2022-08-16T22:55:14-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "KDD 2022 Tutorial"
-publication_short: "*KDD 2022 Tutorial*"
+publication: "COLING 2022"
+publication_short: "*COLING 2022*"
 
 abstract: ""
 
@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/doi/10.1145/3534678.3542615
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: https://khuangaf.github.io/kdd-tutorial-2022/
+url_slides:
 url_source:
 url_video:
 
