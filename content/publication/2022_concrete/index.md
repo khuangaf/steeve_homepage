@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Improving Cross-lingual Fact Checking with Cross-lingual Retrieval"
+title: "Improving Cross-lingual Fact-checking with Cross-lingual Retrieval"
 authors: ["**Kung-Hsiang Huang**", "Chengxiang Zhai", "Heng Ji"]
 date: 2022-08-16T22:55:14-04:00
 doi: ""
