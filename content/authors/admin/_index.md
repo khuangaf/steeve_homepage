@@ -23,7 +23,7 @@ organizations:
 bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
 
 interests:
-- Fact Checking
+- Fact-checking
 - Fake News Detection
 - Enhancing Factual Consistency
 - Text Debiasing
