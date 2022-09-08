@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/abs/2209.02071
+url_code: https://github.com/khuangaf/CONCRETE
 url_dataset:
 url_poster:
 url_project:
