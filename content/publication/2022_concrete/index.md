@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2209.02071
+url_pdf: https://aclanthology.org/2022.coling-1.86/
 url_code: https://github.com/khuangaf/CONCRETE
 url_dataset:
 url_poster:
