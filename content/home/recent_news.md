@@ -55,4 +55,3 @@ subtitle = ""
 - __[Apr 2022]__ Served as a reviewer for JAIR.
 - __[Oct 2021]__ Served as a reviewer for ACL Rolling Review.
 - __[Aug 2021]__ One [paper](https://arxiv.org/abs/2109.04901) accepted by EMNLP 2021!
-- __[Aug 2021]__ Moved from LA to Champaign ✈️.
