@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Improving Cross-lingual Fact-checking with Cross-lingual Retrieval"
-authors: ["**Kung-Hsiang Huang**", "Chengxiang Zhai", "Heng Ji"]
+authors: ["**Kung-Hsiang Huang**", "ChengXiang Zhai", "Heng Ji"]
 date: 2022-08-16T22:55:14-04:00
 doi: ""
 
