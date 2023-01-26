@@ -49,7 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- __[Nov 2022]__ Will give a [tutorial](https://www.aacl2022.org/Program/tutorials#h.b34topiurv0z) at AACL 2022!
+- __[Jan 2023]__ One [paper](https://arxiv.org/abs/2301.10483) accepted by EACL 2023 (Findings)!
+- __[Nov 2022]__ Gave a [tutorial](https://www.aacl2022.org/Program/tutorials#h.b34topiurv0z) at AACL 2022!
 - __[Aug 2022]__ One [paper](https://aclanthology.org/2022.coling-1.86/) accepted by COLING 2022!
 - __[Aug 2022]__ Gave a [tutorial](https://khuangaf.github.io/kdd-tutorial-2022/) at KDD 2022!
 - __[Apr 2022]__ Served as a reviewer for JAIR.
