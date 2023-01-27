@@ -25,8 +25,7 @@ bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep
 interests:
 - Fact-checking
 - Fake News Detection
-- Enhancing Factual Consistency
-- Text Debiasing
+- Faithfulness
 
 
 
@@ -91,4 +90,4 @@ user_groups:
 ---
 
 Kung-Hsiang (Steeve) Huang is a second-year PhD student at the
-University of Illinois Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). His research goal is to reduce false information around the world. To achieve this goal, he works towards three main research directions: fact-checking and fake news detection, improving factual consistency for text generation models, and text debiasing. Prior to joining UIUC, he obtained his master's degree from the University of Southern California, where he was advised by Professor [Nanyun Peng](https://vnpeng.net/). Steeve earned his bachelor's degree at the Hong Kong University of Science and Technology. In addition, he is a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with millions of online shoppers.
+University of Illinois Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). His research goal is to reduce false information around the world. To achieve this goal, he works towards three main research directions: fact-checking, fake news detection, and improving faithfulness for text generation models. Prior to joining UIUC, he obtained his master's degree from the University of Southern California, where he was advised by Professor [Nanyun Peng](https://vnpeng.net/). Steeve earned his bachelor's degree at the Hong Kong University of Science and Technology. In addition, he is a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with millions of online shoppers.
