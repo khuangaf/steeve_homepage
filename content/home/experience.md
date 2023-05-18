@@ -28,6 +28,15 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
+  title = "Research Intern"
+  company = "Salesforce"
+  company_url = "salesforce.com"
+  location = "CA, United States"
+  date_start = "2023-05-22"
+  date_end = ""
+  description = """"""  
+
+[[experience]]
   title = "Applied Scientist Intern"
   company = "Amazon"
   company_url = "https://www.amazon.science/"
