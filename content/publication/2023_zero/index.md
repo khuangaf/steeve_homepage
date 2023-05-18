@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation"
-authors: ["**Kung-Hsiang Huang**", "Kathleen McKeown", "Preslav Nakov", "Yejin Choi", "Heng Ji"]
-date: 
+title: "2023_zero"
+authors: ["**Kung-Hsiang Huang**", "Hou Pong Chan", "Heng Ji"]
+date: 2023-05-17T22:21:50-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-10T19:38:51-06:00
+publishDate: 2023-05-17T22:21:50-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACL 2023"
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2203.05386"
-url_code:
+url_pdf: https://arxiv.org/pdf/2305.07982.pdf
+url_code: https://github.com/khuangaf/ZeroFEC
 url_dataset:
 url_poster:
 url_project:
