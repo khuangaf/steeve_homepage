@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2023_zero"
+title: "Zero-shot Faithful Factual Error Correction"
 authors: ["**Kung-Hsiang Huang**", "Hou Pong Chan", "Heng Ji"]
 date: 2023-05-17T22:21:50-05:00
 doi: ""
