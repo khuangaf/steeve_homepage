@@ -60,6 +60,12 @@ social:
 # - icon: kaggle
 #   icon_pack: fab
 #   link: https://www.kaggle.com/huangkh19951228/  
+- icon: google-scholar
+  icon_pack: ai
+  link: https://twitter.com/steeve__huang  
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/steeve__huang    
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/steeve-huang/
@@ -69,9 +75,9 @@ social:
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@huangkh19951228  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/steeve__huang  
+
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
