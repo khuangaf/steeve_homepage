@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "salesforce.com"
   location = "CA, United States"
   date_start = "2023-05-22"
-  date_end = ""
+  date_end = "2023-08-12"
   description = """"""  
 
 [[experience]]
