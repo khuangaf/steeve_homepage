@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Amazon"
+  organization_url = "https://www.amazon.science/"
+  title = "Amazon Fellowship"
+  url = "https://aice.illinois.edu/people"
+  certificate_url = ""
+  date_start = "2023-09-26"
+  date_end = ""
+  description = "2023 Amazon Fellow at the Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE)"
+
+[[item]]
   organization = "University of Southern California"
   organization_url = "https://www.usc.edu/"
   title = "Dean's Scholarship"
