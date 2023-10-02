@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation"
-authors: ["**Kung-Hsiang Huang**", "Kathleen McKeown", "Preslav Nakov", "Yejin Choi", "Heng Ji"]
-date: 
+title: "ManiTweet: A New Benchmark for Identifying Manipulation of News on Social Media"
+authors: ["**Kung-Hsiang Huang**", "Hou Pong Chan", "Kathleen McKeown", "Heng Ji"]
+date: 2023-10-02T09:50:18-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-10T19:38:51-06:00
+publishDate: 2023-10-02T09:50:18-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL 2023"
-publication_short: "*ACL 2023*"
+publication: "Arxiv"
+publication_short: "Arxiv"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2023.acl-long.815/"
+url_pdf: "https://arxiv.org/abs/2305.14225"
 url_code:
 url_dataset:
 url_poster:

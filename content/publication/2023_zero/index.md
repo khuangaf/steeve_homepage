@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2305.07982.pdf
+url_pdf: https://aclanthology.org/2023.acl-long.311/
 url_code: https://github.com/khuangaf/ZeroFEC
 url_dataset:
 url_poster:
