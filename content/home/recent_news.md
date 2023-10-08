@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- __[Sep 2023]__ Selected as a [Amazon Fellow](https://aice.illinois.edu/people) at the Amazon-Illinois Center!
+- __[Sep 2023]__ Selected as an [Amazon Fellow](https://aice.illinois.edu/people) at the Amazon-Illinois Center!
 - __[May 2023]__ Two papers ([paper 1](https://arxiv.org/pdf/2305.07982.pdf),[paper 2](https://arxiv.org/pdf/2203.05386.pdf)) accepted by ACL 2023!
 - __[Jan 2023]__ One [paper](https://arxiv.org/abs/2301.10483) accepted by EACL 2023 (Findings)!
 - __[Nov 2022]__ Gave a [tutorial](https://www.aacl2022.org/Program/tutorials#h.b34topiurv0z) at AACL 2022!
