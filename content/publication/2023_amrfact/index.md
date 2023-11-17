@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ManiTweet: A New Benchmark for Identifying Manipulation of News on Social Media"
-authors: ["**Kung-Hsiang Huang**", "Hou Pong Chan", "Kathleen McKeown", "Heng Ji"]
-date: 2023-10-02T09:50:18-07:00
+title: "AMRFact: Enhancing Summarization Factuality Evaluation with AMR-driven Training Data Generation"
+authors: ["Haoyi Qiu", "**Kung-Hsiang Huang**", "Jingnong Qu", "Nanyun Peng"]
+date: 2023-11-17T08:26:07-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-02T09:50:18-07:00
+publishDate: 2023-11-17T08:26:07-08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2305.14225"
+url_pdf: https://arxiv.org/abs/2311.09521
 url_code:
 url_dataset:
 url_poster:
