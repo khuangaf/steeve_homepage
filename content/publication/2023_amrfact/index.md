@@ -16,8 +16,8 @@ publishDate: 2023-11-17T08:26:07-08:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Arxiv"
+publication_short: "Arxiv"
 
 abstract: ""
 
