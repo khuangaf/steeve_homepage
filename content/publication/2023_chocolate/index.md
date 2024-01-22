@@ -38,9 +38,9 @@ featured: false
 
 url_pdf: https://arxiv.org/abs/2312.10160
 url_code: https://github.com/khuangaf/CHOCOLATE
-url_dataset: https://github.com/khuangaf/CHOCOLATE
+url_dataset: https://huggingface.co/datasets/khhuang/CHOCOLATE
 url_poster:
-url_project:
+url_project: https://khuangaf.github.io/CHOCOLATE/
 url_slides:
 url_source:
 url_video:
