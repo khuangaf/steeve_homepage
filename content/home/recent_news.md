@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- __[Feb 2024]__ Serve as an Action Editor/ Area Chair for the ARR (ACL 2024). 
+- __[Feb 2024]__ Serve as an Action Editor/ Area Chair for ARR Feb cycle (ACL 2024). 
 - __[Sep 2023]__ Selected as an [Amazon Fellow](https://aice.illinois.edu/people) at the Amazon-Illinois Center!
 - __[May 2023]__ Two papers ([paper 1](https://arxiv.org/pdf/2305.07982.pdf),[paper 2](https://arxiv.org/pdf/2203.05386.pdf)) accepted by ACL 2023!
 - __[Jan 2023]__ One [paper](https://arxiv.org/abs/2301.10483) accepted by EACL 2023 (Findings)!
