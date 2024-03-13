@@ -13,11 +13,11 @@ publishDate: 2023-10-02T09:50:27-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: "Arxiv"
+publication: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics"
+publication_short: "NAACL 2024"
 
 abstract: ""
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "AMRFact: Enhancing Summarization Factuality Evaluation with AMR-driven Training Data Generation"
-authors: ["Haoyi Qiu", "**Kung-Hsiang Huang**", "Jingnong Qu", "Nanyun Peng"]
+authors: ["Haoyi Qiu", "__Kung-Hsiang Huang__*", "Jingnong Qu*", "Nanyun Peng"]
 date: 2023-11-17T08:26:07-08:00
 doi: ""
 
@@ -13,11 +13,11 @@ publishDate: 2023-11-17T08:26:07-08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: "Arxiv"
+publication: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics"
+publication_short: "NAACL 2024"
 
 abstract: ""
 
