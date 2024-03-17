@@ -49,9 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- __[Mar 2024]__ Two papers ([paper 1](https://arxiv.org/abs/2309.09369), [paper 2](https://arxiv.org/abs/2311.09521)) accepted by NAACL 2024!
 - __[Feb 2024]__ Serve as an Action Editor/ Area Chair for ARR Feb cycle (ACL 2024). 
 - __[Sep 2023]__ Selected as an [Amazon Fellow](https://aice.illinois.edu/people) at the Amazon-Illinois Center!
-- __[May 2023]__ Two papers ([paper 1](https://arxiv.org/pdf/2305.07982.pdf),[paper 2](https://arxiv.org/pdf/2203.05386.pdf)) accepted by ACL 2023!
+- __[May 2023]__ Two papers ([paper 1](https://arxiv.org/pdf/2305.07982.pdf), [paper 2](https://arxiv.org/pdf/2203.05386.pdf)) accepted by ACL 2023!
 - __[Jan 2023]__ One [paper](https://arxiv.org/abs/2301.10483) accepted by EACL 2023 (Findings)!
 - __[Nov 2022]__ Gave a [tutorial](https://www.aacl2022.org/Program/tutorials#h.b34topiurv0z) at AACL 2022!
 - __[Aug 2022]__ One [paper](https://aclanthology.org/2022.coling-1.86/) accepted by COLING 2022!

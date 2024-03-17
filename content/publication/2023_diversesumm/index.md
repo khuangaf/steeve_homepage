@@ -38,7 +38,7 @@ featured: false
 
 url_pdf: "https://arxiv.org/abs/2309.09369"
 url_code:
-url_dataset:
+url_dataset: "https://github.com/salesforce/DiverseSumm"
 url_poster:
 url_project:
 url_slides:
