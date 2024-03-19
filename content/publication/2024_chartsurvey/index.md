@@ -40,7 +40,7 @@ url_pdf: https://arxiv.org/abs/2403.12027
 url_code:
 url_dataset:
 url_poster:
-url_project: https://arxiv.org/abs/2403.12027
+url_project: https://github.com/khuangaf/Awesome-Chart-Understanding
 url_slides:
 url_source:
 url_video:
