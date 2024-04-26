@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role1: CS PhD candidate, UIUC
+role1: Just-completed CS PhD, UIUC
 # role2: PhD in CS,
 
 
@@ -95,5 +95,5 @@ user_groups:
 - Visitors
 ---
 
-Kung-Hsiang (Steeve) Huang is a PhD candidate and an [Amazon Fellow](https://cs.illinois.edu/news/Amazon-names-Huang-Zhong-inagural-fellows-AICE-research) at the
+Kung-Hsiang (Steeve) Huang is a newly-minted PhD and an [Amazon Fellow](https://cs.illinois.edu/news/Amazon-names-Huang-Zhong-inagural-fellows-AICE-research) at the
 University of Illinois Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). His research goal is to reduce false information around the world. To achieve this goal, he works towards three main research directions: fact-checking, fake news detection, and improving faithfulness for text generation models. Prior to joining UIUC, he obtained his master's degree from the University of Southern California, where he was advised by Professor [Nanyun Peng](https://vnpeng.net/). Steeve earned his bachelor's degree at the Hong Kong University of Science and Technology. In addition, he was a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with millions of online shoppers.
