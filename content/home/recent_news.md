@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- __[April 2024]__ I defended my PhD dissertation!
+- __[Apr 2024]__ I defended my PhD dissertation!
 - __[Mar 2024]__ Two papers ([paper 1](https://arxiv.org/abs/2309.09369), [paper 2](https://arxiv.org/abs/2311.09521)) accepted by NAACL 2024!
 - __[Feb 2024]__ Serve as an Action Editor/ Area Chair for ARR Feb cycle (ACL 2024). 
 - __[Sep 2023]__ Selected as an [Amazon Fellow](https://aice.illinois.edu/people) at the Amazon-Illinois Center!
