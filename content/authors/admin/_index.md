@@ -20,12 +20,14 @@ organizations:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am the Chief Technology Officer of Rosetta.ai, in charge of the core Deep Learning-based recommender system that empowers our clients with over millions of online shoppers. In Spring 2020, I will be attending the University of Southern California as a Master of Science in Computer Science student.
+bio: 
 
 interests:
 - Fact-checking
 - Fake News Detection
-- Faithfulness
+- Faithfulness Enhancement/ Evaluation
+- Factual Error Correction
+
 
 
 
@@ -33,7 +35,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Illinois at Urbana-Champaign
+    institution: University of Illinois Urbana-Champaign
     year: 2021 - 2024
     img: https://cdn.vox-cdn.com/thumbor/FSUavm-EmXt6dg46QSNu9o6rhFo=/0x0:800x400/1400x1400/filters:focal(336x136:464x264):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56187477/DHNkdRfXoAEp2VD.0.jpg
   - course: MSc in Computer Science
@@ -95,5 +97,9 @@ user_groups:
 - Visitors
 ---
 
-Kung-Hsiang (Steeve) Huang is a newly-minted PhD and an [Amazon Fellow](https://cs.illinois.edu/news/Amazon-names-Huang-Zhong-inagural-fellows-AICE-research) at the
-University of Illinois Urbana-Champaign. He is part of the [BLENDER Lab](http://blender.cs.illinois.edu/), led by Professor [Heng Ji](http://blender.cs.illinois.edu/hengji.html). His research goal is to reduce false information around the world. To achieve this goal, he works towards three main research directions: fact-checking, fake news detection, and improving faithfulness for text generation models. Prior to joining UIUC, he obtained his master's degree from the University of Southern California, where he was advised by Professor [Nanyun Peng](https://vnpeng.net/). Steeve earned his bachelor's degree at the Hong Kong University of Science and Technology. In addition, he was a co-founder of [Rosetta.ai](http://rosetta.ai/), in charge of the core Deep Learning-based recommender system that empowers our clients with millions of online shoppers.
+I recently earned my PhD in Computer Science from University of Illinois Urbana-Champaign, specializing in Natural Language Processing under the guidance of Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html). My thesis committee included esteemed members Prof. ChengXiang Zhai, Prof. Kathleen McKeown, Prof. Hao Peng, Prof. Han Zhao, and Dr. Shaiq Joty. Throughout my doctoral study, I was supported by the DARPA [Semantic Forensics](https://www.darpa.mil/program/semantic-forensics) program and the [Amazon Science Ph.D. Fellowship](https://cs.illinois.edu/news/Amazon-names-Huang-Zhong-inagural-fellows-AICE-research). 
+
+
+My primary research interst lies in the intersection between Natural Language Processing and Machine Learning. My research is driven by a goal to reduce false information around the world. To achieve this goal, I work towards three main research directions: fact-checking ([COLING 2022](https://aclanthology.org/2022.coling-1.86/)), fake news detection ([NAACL 2022](https://aclanthology.org/2022.naacl-main.40/), [ACL 2023](https://aclanthology.org/2023.acl-long.815/)), faithfulness enhancement and evaluation ([EACL 2023 Findings](https://aclanthology.org/2023.findings-eacl.37/), [NAACL 2024](https://arxiv.org/abs/2311.09521), [NAACL 2024](https://arxiv.org/abs/2309.09369)), and factual error correction ([ACL 2023](https://aclanthology.org/2023.acl-long.311/), [Arxiv 2023](https://arxiv.org/abs/2312.10160)).
+
+
